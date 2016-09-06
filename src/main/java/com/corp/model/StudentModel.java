@@ -7,7 +7,7 @@ package com.corp.model;
 
 /**
  *
- * @author udey
+ * @author sgoswami
  */
 public class StudentModel {
     /*
