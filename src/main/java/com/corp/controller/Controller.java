@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.Broadsoft.controller;
+package com.corp.controller;
 
-import com.Broadsoft.model.StudentModel;
-import com.Broadsoft.repository.StudentRepository;
+import com.corp.model.StudentModel;
+import com.corp.repository.StudentRepository;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;

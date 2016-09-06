@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.Broadsoft.repository;
+package com.corp.repository;
 
-import com.Broadsoft.model.StudentModel;
+import com.corp.model.StudentModel;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.List;
